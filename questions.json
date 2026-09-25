@@ -1,0 +1,3312 @@
+{
+  "ona_tili": {
+    "nomi": "Ona tili",
+    "savollar": [
+      {
+        "mavzu": "Fonetika",
+        "savol": "O'zbek tilida nechta unli tovush (fonema) mavjud?",
+        "variantlar": [
+          "5",
+          "6",
+          "7",
+          "9"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Fonetika",
+        "savol": "Lotin yozuviga asoslangan hozirgi o'zbek alifbosida nechta harf (harf birikmasi) bor?",
+        "variantlar": [
+          "26",
+          "29",
+          "31",
+          "35"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Fonetika",
+        "savol": "Quyidagi undoshlardan qaysi biri jarangli hisoblanadi?",
+        "variantlar": [
+          "p",
+          "t",
+          "b",
+          "k"
+        ],
+        "togri": 2
+      },
+      {
+        "mavzu": "Fonetika",
+        "savol": "\"yo, yu, ya\" harf birikmalari holatga qarab necha tovushni ifodalashi mumkin?",
+        "variantlar": [
+          "doim bitta",
+          "doim ikkita",
+          "bitta yoki ikkita",
+          "doim uchta"
+        ],
+        "togri": 2
+      },
+      {
+        "mavzu": "Fonetika",
+        "savol": "So'z boshida kelganda \"yo\" harfi nechta tovushni bildiradi?",
+        "variantlar": [
+          "1",
+          "2",
+          "3",
+          "0"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Fonetika",
+        "savol": "Undosh tovushlar jaranglilik-jarangsizlik jihatidan necha turga bo'linadi?",
+        "variantlar": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Fonetika",
+        "savol": "Quyidagi so'zlarning qaysi birida barcha undoshlar jarangli hisoblanadi?",
+        "variantlar": [
+          "tosh",
+          "baland",
+          "katta",
+          "chiroq"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Fonetika",
+        "savol": "Tutuq belgisi (') so'zda qanday vazifani bajaradi?",
+        "variantlar": [
+          "undosh tovushni bildiradi",
+          "unli tovushni bildiradi",
+          "unlini cho'zish/ayirish vazifasini bajaradi",
+          "urg'uni bildiradi"
+        ],
+        "togri": 2
+      },
+      {
+        "mavzu": "Fonetika",
+        "savol": "Bo'g'in tuzilishiga ko'ra asosan necha turga bo'linadi?",
+        "variantlar": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Fonetika",
+        "savol": "O'zbek tilida urg'u ko'pincha so'zning qaysi bo'g'iniga tushadi?",
+        "variantlar": [
+          "birinchi",
+          "oxirgi",
+          "o'rtadagi",
+          "urg'u yo'q"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Leksikologiya",
+        "savol": "\"Katta\" so'zining sinonimi qaysi?",
+        "variantlar": [
+          "kichik",
+          "ulkan",
+          "tor",
+          "past"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Leksikologiya",
+        "savol": "\"Achchiq\" so'zining antonimi qaysi?",
+        "variantlar": [
+          "shirin",
+          "issiq",
+          "sovuq",
+          "qattiq"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Leksikologiya",
+        "savol": "Quyidagilardan qaysi biri omonimga misol bo'la oladi?",
+        "variantlar": [
+          "katta-kichik",
+          "yaxshi-yomon",
+          "ot (hayvon) - ot (otmoq)",
+          "issiq-sovuq"
+        ],
+        "togri": 2
+      },
+      {
+        "mavzu": "Leksikologiya",
+        "savol": "\"Ot\" so'zi qaysi hodisaga misol bo'la oladi?",
+        "variantlar": [
+          "sinonimiya",
+          "antonimiya",
+          "omonimiya",
+          "paronimiya"
+        ],
+        "togri": 2
+      },
+      {
+        "mavzu": "Leksikologiya",
+        "savol": "\"Bosh\" so'zi (tana a'zosi, rahbar, boshlanish) qanday hodisaga misol bo'ladi?",
+        "variantlar": [
+          "ko'p ma'nolilik",
+          "omonimiya",
+          "antonimiya",
+          "sinonimiya"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Leksikologiya",
+        "savol": "\"Ko'zi ochiq\" iborasi qanday ma'noni bildiradi?",
+        "variantlar": [
+          "uxlamaydi",
+          "hushyor, ziyrak",
+          "ko'zi og'riydi",
+          "ko'r"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Leksikologiya",
+        "savol": "Frazeologizm nima?",
+        "variantlar": [
+          "bir so'zdan iborat birikma",
+          "ma'no jihatdan bir butun, barqaror so'z birikmasi",
+          "gap bo'lagi",
+          "qo'shma so'z"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Leksikologiya",
+        "savol": "\"Ko'z\" (tana a'zosi, buloq ko'zi, igna ko'zi) so'ziga xos xususiyat:",
+        "variantlar": [
+          "ko'p ma'nolilik",
+          "sinonimiya",
+          "antonimiya",
+          "omonimiya"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Leksikologiya",
+        "savol": "Quyidagi qatorlardan qaysi biri sinonimik qator hisoblanadi?",
+        "variantlar": [
+          "katta-kichik-baland",
+          "go'zal-chiroyli-nafis",
+          "issiq-sovuq-iliq",
+          "yaxshi-yomon-o'rta"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Leksikologiya",
+        "savol": "Eskirib, iste'moldan chiqib ketgan so'zlar qanday ataladi?",
+        "variantlar": [
+          "neologizm",
+          "arxaizm",
+          "dialektizm",
+          "varvarizm"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Leksikologiya",
+        "savol": "Tilga yangi kirib kelayotgan so'zlar qanday nomlanadi?",
+        "variantlar": [
+          "arxaizm",
+          "neologizm",
+          "dialektizm",
+          "sinonim"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Leksikologiya",
+        "savol": "\"Devor\" va \"devona\" so'zlari qanday hodisaga misol bo'ladi?",
+        "variantlar": [
+          "sinonim",
+          "antonim",
+          "paronim",
+          "omonim"
+        ],
+        "togri": 2
+      },
+      {
+        "mavzu": "So'z tarkibi",
+        "savol": "So'zning lug'aviy ma'no ifodalovchi eng kichik qismi qanday ataladi?",
+        "variantlar": [
+          "qo'shimcha",
+          "o'zak",
+          "negiz",
+          "bo'g'in"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "So'z tarkibi",
+        "savol": "\"Kitoblarim\" so'zida nechta qo'shimcha bor?",
+        "variantlar": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "So'z tarkibi",
+        "savol": "So'z yasovchi qo'shimchalar so'zning nimasini o'zgartiradi?",
+        "variantlar": [
+          "faqat shaklini",
+          "ma'nosini, ba'zan turkumini ham",
+          "faqat urg'usini",
+          "hech nimasini"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "So'z tarkibi",
+        "savol": "Shakl yasovchi qo'shimchaga misol keltiring.",
+        "variantlar": [
+          "-chi",
+          "-lar (ko'plik)",
+          "-dosh",
+          "-zor"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "So'z tarkibi",
+        "savol": "\"O'qituvchi\" so'zidagi \"-chi\" qanday qo'shimcha?",
+        "variantlar": [
+          "so'z o'zgartiruvchi",
+          "so'z yasovchi",
+          "kelishik qo'shimchasi",
+          "egalik qo'shimchasi"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "So'z tarkibi",
+        "savol": "Negiz deganda nima tushuniladi?",
+        "variantlar": [
+          "o'zak va so'z yasovchi qo'shimcha birligi",
+          "faqat o'zak",
+          "faqat qo'shimcha",
+          "bo'g'in"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "So'z tarkibi",
+        "savol": "Qo'shma so'zlar asosan qanday usullarda yasaladi?",
+        "variantlar": [
+          "qo'shish, juftlash, qisqartirish kabi usullar bilan",
+          "faqat qo'shish bilan",
+          "faqat qisqartirish bilan",
+          "yasalmaydi"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "So'z tarkibi",
+        "savol": "\"Temir yo'l\" so'zi qanday so'z turiga kiradi?",
+        "variantlar": [
+          "sodda so'z",
+          "qo'shma so'z",
+          "juft so'z",
+          "takroriy so'z"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "So'z tarkibi",
+        "savol": "\"Katta-katta\" so'zi qanday so'zga misol?",
+        "variantlar": [
+          "qo'shma so'z",
+          "juft so'z",
+          "takroriy so'z",
+          "sodda so'z"
+        ],
+        "togri": 2
+      },
+      {
+        "mavzu": "So'z tarkibi",
+        "savol": "\"Ota-ona\" so'zi qanday so'z hisoblanadi?",
+        "variantlar": [
+          "takroriy so'z",
+          "juft so'z",
+          "qo'shma so'z",
+          "sodda so'z"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Ot",
+        "savol": "Ot so'z turkumi qanday so'roqlarga javob beradi?",
+        "variantlar": [
+          "kim? nima?",
+          "qanday? qanaqa?",
+          "qancha? nechta?",
+          "qayerda? qachon?"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Ot",
+        "savol": "Otlar atoqli-turdoshlik jihatidan necha turga bo'linadi?",
+        "variantlar": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Ot",
+        "savol": "Atoqli otlar qanday harf bilan yoziladi?",
+        "variantlar": [
+          "kichik harf bilan",
+          "bosh harf bilan",
+          "qavs ichida",
+          "qo'shtirnoqda"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Ot",
+        "savol": "\"Kitob\" so'zi qanday otga misol bo'ladi?",
+        "variantlar": [
+          "atoqli ot",
+          "turdosh ot",
+          "jamlovchi ot",
+          "mavhum ot"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Ot",
+        "savol": "\"Xalq\" so'zi qanday ot turiga misol bo'ladi?",
+        "variantlar": [
+          "atoqli ot",
+          "jamlovchi ot",
+          "mavhum ot",
+          "moddiy ot"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Ot",
+        "savol": "Otlar nechta kelishikda turlanadi?",
+        "variantlar": [
+          "5",
+          "6",
+          "7",
+          "4"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Ot",
+        "savol": "Jo'nalish kelishigi qanday qo'shimcha bilan yasaladi?",
+        "variantlar": [
+          "-ni",
+          "-ga/-ka/-qa",
+          "-da",
+          "-dan"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Ot",
+        "savol": "Chiqish kelishigi qaysi qo'shimcha bilan yasaladi?",
+        "variantlar": [
+          "-dan/-tan",
+          "-ni",
+          "-ga",
+          "-ning"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Sifat",
+        "savol": "Sifat so'z turkumi qanday so'roqlarga javob beradi?",
+        "variantlar": [
+          "kim?",
+          "qanday? qanaqa?",
+          "qancha?",
+          "qayer?"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Sifat",
+        "savol": "Sifat necha darajaga ega?",
+        "variantlar": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Sifat",
+        "savol": "\"Eng chiroyli\" birikmasida sifatning qaysi darajasi ishlatilgan?",
+        "variantlar": [
+          "oddiy daraja",
+          "qiyosiy daraja",
+          "orttirma daraja",
+          "hech qaysi"
+        ],
+        "togri": 2
+      },
+      {
+        "mavzu": "Sifat",
+        "savol": "\"Kattaroq\" so'zidagi \"-roq\" qo'shimchasi sifatning qaysi darajasini yasaydi?",
+        "variantlar": [
+          "oddiy",
+          "qiyosiy",
+          "orttirma",
+          "mutlaq"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Sifat",
+        "savol": "Sifatlar gapda ko'pincha qaysi gap bo'lagi vazifasida keladi?",
+        "variantlar": [
+          "ega",
+          "aniqlovchi",
+          "hol",
+          "to'ldiruvchi"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Sifat",
+        "savol": "\"Yashil\", \"qizil\", \"oq\" so'zlari qanday sifat turiga kiradi?",
+        "variantlar": [
+          "shakl bildiruvchi",
+          "rang bildiruvchi",
+          "mazali bildiruvchi",
+          "hajm bildiruvchi"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Son",
+        "savol": "Son so'z turkumi narsalarning qaysi belgisini bildiradi?",
+        "variantlar": [
+          "rangini",
+          "sanog'i va tartibini",
+          "shaklini",
+          "hajmini"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Son",
+        "savol": "\"Besh\", \"o'n\", \"yuz\" so'zlari qanday son turiga misol?",
+        "variantlar": [
+          "sanoq son",
+          "tartib son",
+          "jamlovchi son",
+          "taqsim son"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Son",
+        "savol": "\"Beshinchi\", \"o'ninchi\" so'zlari qanday son turiga misol?",
+        "variantlar": [
+          "sanoq son",
+          "tartib son",
+          "jamlovchi son",
+          "taqsim son"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Son",
+        "savol": "\"Beshtadan\" so'zi qanday son turiga kiradi?",
+        "variantlar": [
+          "sanoq son",
+          "tartib son",
+          "taqsim son",
+          "jamlovchi son"
+        ],
+        "togri": 2
+      },
+      {
+        "mavzu": "Son",
+        "savol": "\"Ikkovi\", \"beshovi\" so'zlari qanday son turiga misol?",
+        "variantlar": [
+          "sanoq son",
+          "jamlovchi son",
+          "taqsim son",
+          "tartib son"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Son",
+        "savol": "Tartib son qanday qo'shimcha yordamida yasaladi?",
+        "variantlar": [
+          "-ta",
+          "-inchi/-nchi",
+          "-tadan",
+          "-ov"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Olmosh",
+        "savol": "Olmosh so'z turkumi haqida to'g'ri fikrni tanlang.",
+        "variantlar": [
+          "predmet nomini bevosita ataydi",
+          "ot, sifat, son o'rnida qo'llanib, ularga ishora qiladi",
+          "harakatni bildiradi",
+          "belgini bildiradi"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Olmosh",
+        "savol": "\"Men, sen, u, biz, siz, ular\" so'zlari qanday olmosh turi?",
+        "variantlar": [
+          "kishilik olmoshi",
+          "so'roq olmoshi",
+          "ko'rsatish olmoshi",
+          "belgilash olmoshi"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Olmosh",
+        "savol": "\"Bu, shu, u, ana u\" so'zlari qanday olmosh turi?",
+        "variantlar": [
+          "kishilik olmoshi",
+          "ko'rsatish olmoshi",
+          "so'roq olmoshi",
+          "bo'lishsizlik olmoshi"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Olmosh",
+        "savol": "\"Kim? Nima? Qanday? Qancha?\" so'zlari qanday olmosh turkumiga kiradi?",
+        "variantlar": [
+          "ko'rsatish olmoshi",
+          "so'roq olmoshi",
+          "kishilik olmoshi",
+          "belgilash olmoshi"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Olmosh",
+        "savol": "\"O'z\" olmoshi qanday olmosh turiga kiradi?",
+        "variantlar": [
+          "o'zlik olmoshi",
+          "so'roq olmoshi",
+          "ko'rsatish olmoshi",
+          "gumon olmoshi"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Olmosh",
+        "savol": "\"Hamma, barcha, hech kim\" so'zlari qanday olmosh turi?",
+        "variantlar": [
+          "so'roq olmoshi",
+          "belgilash va bo'lishsizlik olmoshi",
+          "kishilik olmoshi",
+          "ko'rsatish olmoshi"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Olmosh",
+        "savol": "\"Kimdir, nimadir, allakim\" so'zlari qanday olmosh turi?",
+        "variantlar": [
+          "gumon olmoshi",
+          "so'roq olmoshi",
+          "kishilik olmoshi",
+          "o'zlik olmoshi"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Olmosh",
+        "savol": "Olmoshlar gapda odatda qaysi so'z turkumi o'rnida qo'llanilmaydi?",
+        "variantlar": [
+          "ot o'rnida",
+          "sifat o'rnida",
+          "fe'l o'rnida",
+          "son o'rnida"
+        ],
+        "togri": 2
+      },
+      {
+        "mavzu": "Fe'l",
+        "savol": "Fe'l so'z turkumi nimani bildiradi?",
+        "variantlar": [
+          "predmetni",
+          "harakat yoki holatni",
+          "belgini",
+          "sanog'ini"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Fe'l",
+        "savol": "Fe'llar bo'lishli-bo'lishsizlik jihatidan necha shaklda qo'llaniladi?",
+        "variantlar": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Fe'l",
+        "savol": "Fe'lning bo'lishsizlik shakli qanday qo'shimcha bilan yasaladi?",
+        "variantlar": [
+          "-ma",
+          "-moq",
+          "-yotir",
+          "-gan"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Fe'l",
+        "savol": "Fe'l zamonlari nechta?",
+        "variantlar": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Fe'l",
+        "savol": "\"O'qiyapti\" fe'li qaysi zamonda?",
+        "variantlar": [
+          "o'tgan zamon",
+          "hozirgi zamon",
+          "kelasi zamon",
+          "buyruq mayli"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Fe'l",
+        "savol": "\"Boradi\" fe'li qaysi zamonga misol bo'ladi?",
+        "variantlar": [
+          "o'tgan zamon",
+          "hozirgi-kelasi zamon",
+          "buyruq mayli",
+          "shart mayli"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Fe'l",
+        "savol": "Fe'l mayllari nechta?",
+        "variantlar": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Fe'l",
+        "savol": "\"Borsa\" fe'li qaysi maylda turibdi?",
+        "variantlar": [
+          "aniqlik mayli",
+          "buyruq-istak mayli",
+          "shart mayli",
+          "hech qaysi"
+        ],
+        "togri": 2
+      },
+      {
+        "mavzu": "Fe'l",
+        "savol": "\"Bor!\" fe'li qaysi maylda turibdi?",
+        "variantlar": [
+          "aniqlik mayli",
+          "buyruq-istak mayli",
+          "shart mayli",
+          "o'tgan zamon"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Fe'l",
+        "savol": "Nisbat qo'shimchalari fe'lning nimasini ifodalaydi?",
+        "variantlar": [
+          "zamonini",
+          "harakat bilan bajaruvchi orasidagi munosabatni",
+          "maylini",
+          "shaxsini"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Ravish",
+        "savol": "Ravish so'z turkumi qanday so'roqlarga javob beradi?",
+        "variantlar": [
+          "kim? nima?",
+          "qanday? qachon? qayerda? qancha?",
+          "kimning?",
+          "nechanchi?"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Ravish",
+        "savol": "\"Tez, sekin, yaxshi\" so'zlari qanday ravish turiga kiradi?",
+        "variantlar": [
+          "payt ravishi",
+          "holat (tarz) ravishi",
+          "o'rin ravishi",
+          "miqdor-daraja ravishi"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Ravish",
+        "savol": "\"Bugun, ertaga, kecha\" so'zlari qanday ravish turiga misol?",
+        "variantlar": [
+          "payt ravishi",
+          "o'rin ravishi",
+          "holat ravishi",
+          "sabab-maqsad ravishi"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Ravish",
+        "savol": "\"Juda, oz, ko'p\" so'zlari qanday ravish turiga kiradi?",
+        "variantlar": [
+          "payt ravishi",
+          "miqdor-daraja ravishi",
+          "o'rin ravishi",
+          "holat ravishi"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Ravish",
+        "savol": "Ravishlar gapda odatda qanday gap bo'lagi vazifasida keladi?",
+        "variantlar": [
+          "ega",
+          "hol",
+          "kesim",
+          "aniqlovchi"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Yordamchi so'z turkumlari",
+        "savol": "Ko'makchilar mustaqil leksik ma'noga egami?",
+        "variantlar": [
+          "ha, mustaqil ma'noga ega",
+          "yo'q, boshqa so'zlarga qo'shimcha ma'no beradi",
+          "faqat ega bo'lib keladi",
+          "faqat kesim bo'lib keladi"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Yordamchi so'z turkumlari",
+        "savol": "\"Bilan, uchun, kabi, singari\" so'zlari qanday so'z turkumi?",
+        "variantlar": [
+          "bog'lovchi",
+          "ko'makchi",
+          "yuklama",
+          "undov"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Yordamchi so'z turkumlari",
+        "savol": "\"Va, hamda, lekin, ammo\" so'zlari qanday so'z turkumi?",
+        "variantlar": [
+          "ko'makchi",
+          "bog'lovchi",
+          "yuklama",
+          "modal so'z"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Yordamchi so'z turkumlari",
+        "savol": "\"-mi, -chi, -ku, -a\" kabi qo'shimchalar qanday so'z turkumiga misol bo'ladi?",
+        "variantlar": [
+          "ko'makchi",
+          "bog'lovchi",
+          "yuklama",
+          "undov"
+        ],
+        "togri": 2
+      },
+      {
+        "mavzu": "Yordamchi so'z turkumlari",
+        "savol": "Undov so'zlar nimani ifodalaydi?",
+        "variantlar": [
+          "harakatni",
+          "his-tuyg'uni",
+          "predmet nomini",
+          "belgini"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Yordamchi so'z turkumlari",
+        "savol": "\"Voy, ey, ura, ofarin\" so'zlari qanday so'z turkumi?",
+        "variantlar": [
+          "undov",
+          "taqlid so'z",
+          "modal so'z",
+          "yuklama"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Yordamchi so'z turkumlari",
+        "savol": "\"Taq-tuq, vov-vov, shariq-shuriq\" so'zlari qanday so'z turkumi?",
+        "variantlar": [
+          "undov",
+          "taqlid so'z",
+          "yuklama",
+          "bog'lovchi"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Yordamchi so'z turkumlari",
+        "savol": "Modal so'zlar nimani ifodalaydi?",
+        "variantlar": [
+          "harakatni",
+          "so'zlovchining voqelikka munosabatini",
+          "predmetni",
+          "belgini"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Sintaksis",
+        "savol": "Gapning bosh bo'laklari qaysilar?",
+        "variantlar": [
+          "ega va kesim",
+          "aniqlovchi va hol",
+          "to'ldiruvchi va hol",
+          "ega va to'ldiruvchi"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Sintaksis",
+        "savol": "\"Kim? Nima?\" so'rog'iga javob bo'lib, harakat egasini bildiruvchi bo'lak qanday ataladi?",
+        "variantlar": [
+          "kesim",
+          "ega",
+          "to'ldiruvchi",
+          "aniqlovchi"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Sintaksis",
+        "savol": "Ega haqida xabar berib, harakat yoki belgini bildiruvchi bo'lak qanday ataladi?",
+        "variantlar": [
+          "ega",
+          "kesim",
+          "hol",
+          "aniqlovchi"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Sintaksis",
+        "savol": "\"Kimni? Nimani? Kimga? Nimaga?\" so'roqlariga javob bo'luvchi bo'lak:",
+        "variantlar": [
+          "aniqlovchi",
+          "to'ldiruvchi",
+          "hol",
+          "ega"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Sintaksis",
+        "savol": "\"Qanday? Qanaqa? Kimning?\" so'roqlariga javob bo'lib, predmet belgisini bildiruvchi bo'lak:",
+        "variantlar": [
+          "hol",
+          "to'ldiruvchi",
+          "aniqlovchi",
+          "kesim"
+        ],
+        "togri": 2
+      },
+      {
+        "mavzu": "Sintaksis",
+        "savol": "\"Qachon? Qayerda? Nima uchun?\" so'roqlariga javob bo'lib, harakat holatini bildiruvchi bo'lak:",
+        "variantlar": [
+          "aniqlovchi",
+          "hol",
+          "to'ldiruvchi",
+          "ega"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Sintaksis",
+        "savol": "Ikkinchi darajali gap bo'laklari nechta?",
+        "variantlar": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Sintaksis",
+        "savol": "Gapning grammatik markazini qaysi bo'laklar tashkil qiladi?",
+        "variantlar": [
+          "hol va aniqlovchi",
+          "ega va kesim",
+          "to'ldiruvchi va hol",
+          "faqat kesim"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Gap turlari",
+        "savol": "Maqsadga ko'ra gaplar necha turga bo'linadi?",
+        "variantlar": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "togri": 2
+      },
+      {
+        "mavzu": "Gap turlari",
+        "savol": "Ega va kesim soniga ko'ra gaplar qanday turlarga bo'linadi?",
+        "variantlar": [
+          "sodda va qo'shma gap",
+          "darak va so'roq gap",
+          "yig'iq va yoyiq gap",
+          "tasdiq va inkor gap"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Gap turlari",
+        "savol": "Bitta ega-kesim qatoridan iborat gap qanday ataladi?",
+        "variantlar": [
+          "qo'shma gap",
+          "sodda gap",
+          "ergash gapli qo'shma gap",
+          "bog'langan qo'shma gap"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Gap turlari",
+        "savol": "Ikki yoki undan ortiq sodda gapdan tashkil topgan gap qanday ataladi?",
+        "variantlar": [
+          "sodda gap",
+          "qo'shma gap",
+          "yig'iq gap",
+          "to'liqsiz gap"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Gap turlari",
+        "savol": "Darak gap oxiriga qanday tinish belgisi qo'yiladi?",
+        "variantlar": [
+          "so'roq belgisi",
+          "undov belgisi",
+          "nuqta",
+          "ko'p nuqta"
+        ],
+        "togri": 2
+      },
+      {
+        "mavzu": "Gap turlari",
+        "savol": "So'roq gap oxiriga qanday belgi qo'yiladi?",
+        "variantlar": [
+          "nuqta",
+          "so'roq belgisi",
+          "undov belgisi",
+          "ikki nuqta"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Gap turlari",
+        "savol": "Gapdagi uyushiq bo'laklar orasiga odatda qanday tinish belgisi qo'yiladi?",
+        "variantlar": [
+          "nuqta-vergul",
+          "vergul",
+          "ikki nuqta",
+          "tire"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Gap turlari",
+        "savol": "Ega bilan kesim orasida ma'lum shartlarda qanday tinish belgisi qo'yilishi mumkin? (masalan: \"Bilim - boylik\")",
+        "variantlar": [
+          "vergul",
+          "tire",
+          "qavs",
+          "ko'p nuqta"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Gap turlari",
+        "savol": "Kirish so'z va kirish birikmalar gapda qanday belgi bilan ajratiladi?",
+        "variantlar": [
+          "tire bilan",
+          "vergul bilan",
+          "qavs bilan",
+          "ikki nuqta bilan"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Imlo",
+        "savol": "Tashkilot, muassasa nomlarining birinchi so'zi qanday yoziladi?",
+        "variantlar": [
+          "kichik harf bilan",
+          "bosh harf bilan",
+          "qavs ichida",
+          "qo'shtirnoqda"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Imlo",
+        "savol": "Ism bilan kelmagan unvon-lavozim so'zlari (professor, direktor) qanday yoziladi?",
+        "variantlar": [
+          "doim bosh harf bilan",
+          "kichik harf bilan",
+          "doim qo'shtirnoqda",
+          "doim raqam bilan"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Imlo",
+        "savol": "\"-ku\" yuklamasi so'zga qanday qo'shiladi?",
+        "variantlar": [
+          "chiziqcha (defis) bilan",
+          "alohida so'z sifatida",
+          "katta harf bilan",
+          "qavs ichida"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Imlo",
+        "savol": "\"-chi\" yuklamasi so'zga qanday qo'shiladi?",
+        "variantlar": [
+          "chiziqcha bilan",
+          "qo'shib (chiziqchasiz)",
+          "alohida yoziladi",
+          "qavs ichida"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Imlo",
+        "savol": "Geografik nomlar (shahar, davlat) qanday yoziladi?",
+        "variantlar": [
+          "kichik harf bilan",
+          "bosh harf bilan",
+          "qavs ichida",
+          "qiya chiziq bilan"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Imlo",
+        "savol": "\"Bilan\" ko'makchisi otdan qanday yoziladi?",
+        "variantlar": [
+          "qo'shib",
+          "alohida",
+          "chiziqcha bilan",
+          "qavs ichida"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Imlo",
+        "savol": "Takrorlangan taqlid so'zlar orasiga qanday belgi qo'yiladi?",
+        "variantlar": [
+          "vergul",
+          "chiziqcha (defis)",
+          "ikki nuqta",
+          "nuqta-vergul"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Imlo",
+        "savol": "Juft so'zlar (masalan \"ota-ona\") orasiga qanday belgi qo'yiladi?",
+        "variantlar": [
+          "vergul",
+          "chiziqcha",
+          "ikki nuqta",
+          "qavs"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Imlo",
+        "savol": "Qisqartma so'zlar (abbreviaturalar) odatda qanday harflar bilan yoziladi?",
+        "variantlar": [
+          "kichik harflar",
+          "bosh harflar",
+          "aralash",
+          "qavs ichida"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Imlo",
+        "savol": "Sanalar (yil, kun) matnda ko'pincha qanday yoziladi?",
+        "variantlar": [
+          "faqat so'z bilan",
+          "raqam bilan (masalan 2024-yil)",
+          "faqat rim raqami bilan",
+          "yozilmaydi"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Imlo",
+        "savol": "Kishi ismi va otasining ismi qanday yoziladi?",
+        "variantlar": [
+          "ikkalasi ham bosh harfdan",
+          "faqat birinchisi",
+          "faqat ikkinchisi",
+          "ikkalasi ham kichik harfdan"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Imlo",
+        "savol": "Kitob, gazeta, jurnal nomlari matnda qanday belgilanadi?",
+        "variantlar": [
+          "qo'shtirnoqqa olinadi",
+          "qavsga olinadi",
+          "belgisiz, faqat bosh harf bilan",
+          "chiziqcha bilan ajratiladi"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Imlo",
+        "savol": "\"va h.k.\", \"masalan\" kabi qisqartmalardan keyin odatda qanday belgi qo'yiladi?",
+        "variantlar": [
+          "vergul yoki nuqta (holatga qarab)",
+          "hech qanday belgi qo'yilmaydi",
+          "doim ikki nuqta",
+          "undov belgisi"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Imlo",
+        "savol": "Undov gaplar oxiriga qanday belgi qo'yiladi?",
+        "variantlar": [
+          "nuqta",
+          "so'roq belgisi",
+          "undov belgisi",
+          "ikki nuqta"
+        ],
+        "togri": 2
+      },
+      {
+        "mavzu": "Imlo",
+        "savol": "Ko'chirma gap muallif gapidan qanday ajratiladi?",
+        "variantlar": [
+          "qo'shtirnoq va tinish belgilari bilan",
+          "faqat probel bilan",
+          "faqat katta harf bilan",
+          "ajratilmaydi"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Tinish belgilari",
+        "savol": "Ega bilan kesim orasiga tire qachon qo'yiladi?",
+        "variantlar": [
+          "ikkalasi ham ot yoki son bilan ifodalansa",
+          "ikkalasi ham fe'l bilan ifodalansa",
+          "hech qachon",
+          "doim"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Tinish belgilari",
+        "savol": "Undalma gapning boshqa qismidan qanday ajratiladi?",
+        "variantlar": [
+          "vergul (yoki undov belgisi) bilan",
+          "tire bilan",
+          "qavs bilan",
+          "ikki nuqta bilan"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Tinish belgilari",
+        "savol": "Kirish so'z va kirish birikmalar qanday ajratiladi?",
+        "variantlar": [
+          "vergul bilan",
+          "tire bilan",
+          "qavs bilan",
+          "ikki nuqta bilan"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Tinish belgilari",
+        "savol": "Ajratilgan aniqlovchi (obrot) gapda qanday ajratiladi?",
+        "variantlar": [
+          "vergul bilan",
+          "tire bilan",
+          "qavs bilan",
+          "ajratilmaydi"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Tinish belgilari",
+        "savol": "Umumlashtiruvchi so'zdan keyin sanash boshlanganda qanday belgi qo'yiladi?",
+        "variantlar": [
+          "ikki nuqta",
+          "tire",
+          "qavs",
+          "ko'p nuqta"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Tinish belgilari",
+        "savol": "Bog'lovchisiz qo'shma gap qismlari orasida odatda qanday belgi qo'yilishi mumkin?",
+        "variantlar": [
+          "vergul, nuqta-vergul yoki ikki nuqta",
+          "faqat nuqta",
+          "faqat qavs",
+          "hech qanday belgi"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Tinish belgilari",
+        "savol": "Sabab-natija munosabatini bildiruvchi bog'lovchisiz qo'shma gapda ko'pincha qanday belgi qo'yiladi?",
+        "variantlar": [
+          "tire",
+          "vergul",
+          "qavs",
+          "ko'p nuqta"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Tinish belgilari",
+        "savol": "Gap ichida qo'shimcha izoh berilganda odatda qanday belgi ishlatiladi?",
+        "variantlar": [
+          "qavs",
+          "qo'shtirnoq",
+          "undov belgisi",
+          "so'roq belgisi"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Tinish belgilari",
+        "savol": "Fikr tugallanmaganini bildirish uchun qanday belgi ishlatiladi?",
+        "variantlar": [
+          "nuqta",
+          "ko'p nuqta (...)",
+          "vergul",
+          "tire"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Tinish belgilari",
+        "savol": "Ergash gap bosh gapdan qanday ajratiladi?",
+        "variantlar": [
+          "vergul bilan",
+          "tire bilan",
+          "qavs bilan",
+          "ajratilmaydi"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Uslubiyat",
+        "savol": "Nutq uslublari odatda necha turga bo'linadi?",
+        "variantlar": [
+          "3",
+          "5",
+          "7",
+          "2"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Uslubiyat",
+        "savol": "Kundalik muloqotda qo'llaniladigan, erkin uslub qanday ataladi?",
+        "variantlar": [
+          "ilmiy uslub",
+          "so'zlashuv uslubi",
+          "rasmiy uslub",
+          "badiiy uslub"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Uslubiyat",
+        "savol": "She'r, hikoya, romanlarda qo'llaniladigan uslub qanday ataladi?",
+        "variantlar": [
+          "ilmiy uslub",
+          "badiiy uslub",
+          "rasmiy uslub",
+          "so'zlashuv uslubi"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Uslubiyat",
+        "savol": "Aniq faktlar va atamalarga asoslangan uslub qanday ataladi?",
+        "variantlar": [
+          "badiiy uslub",
+          "ilmiy uslub",
+          "so'zlashuv uslubi",
+          "publitsistik uslub"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Uslubiyat",
+        "savol": "Rasmiy hujjatlar (ariza, buyruq) qanday uslubda yoziladi?",
+        "variantlar": [
+          "badiiy uslub",
+          "rasmiy-idoraviy uslub",
+          "so'zlashuv uslubi",
+          "publitsistik uslub"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Uslubiyat",
+        "savol": "Gazeta-jurnal maqolalarida ko'proq qo'llaniladigan uslub:",
+        "variantlar": [
+          "ilmiy uslub",
+          "publitsistik uslub",
+          "rasmiy uslub",
+          "badiiy uslub"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Uslubiyat",
+        "savol": "\"Ariza\", \"ma'lumotnoma\" kabi hujjatlar qaysi uslubga misol bo'ladi?",
+        "variantlar": [
+          "badiiy uslub",
+          "rasmiy-idoraviy uslub",
+          "ilmiy uslub",
+          "so'zlashuv uslubi"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Uslubiyat",
+        "savol": "Badiiy uslubning asosiy vazifasi nima?",
+        "variantlar": [
+          "aniq ma'lumot berish",
+          "voqelikni obrazli, ta'sirchan tasvirlash",
+          "qonun-qoidalarni bayon qilish",
+          "statistik ma'lumot berish"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Uslubiyat",
+        "savol": "Ilmiy uslubda asosan qanday til vositalari ko'p ishlatiladi?",
+        "variantlar": [
+          "atamalar va aniq iboralar",
+          "his-hayajonli so'zlar",
+          "shevaga xos so'zlar",
+          "hazil-mutoyiba"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Uslubiyat",
+        "savol": "Nutq uslubini tanlashda nimalarga e'tibor beriladi?",
+        "variantlar": [
+          "muloqot maqsadi va vaziyatiga",
+          "faqat so'zlovchi kayfiyatiga",
+          "faqat vaqtga",
+          "hech nimaga"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Matn",
+        "savol": "Voqealarni ketma-ket bayon qiluvchi matn turi qanday ataladi?",
+        "variantlar": [
+          "tasvir",
+          "hikoya (bayon)",
+          "mulohaza",
+          "tavsif"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Matn",
+        "savol": "Predmet yoki hodisaning tashqi ko'rinishini tasvirlovchi matn turi:",
+        "variantlar": [
+          "hikoya",
+          "tasvir (tavsif)",
+          "mulohaza",
+          "dialog"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Matn",
+        "savol": "Muallif fikrini asoslab, xulosa chiqaruvchi matn turi:",
+        "variantlar": [
+          "hikoya",
+          "tasvir",
+          "mulohaza (fikr-mulohaza)",
+          "tavsif"
+        ],
+        "togri": 2
+      },
+      {
+        "mavzu": "Matn",
+        "savol": "Matnning bosh fikri qanday ataladi?",
+        "variantlar": [
+          "mavzu",
+          "g'oya (asosiy fikr)",
+          "uslub",
+          "janr"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Matn",
+        "savol": "Matn nima haqida ekanligini bildiruvchi tushuncha:",
+        "variantlar": [
+          "mavzu",
+          "g'oya",
+          "uslub",
+          "syujet"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "So'z birikmasi",
+        "savol": "So'z birikmasi nima?",
+        "variantlar": [
+          "ikki yoki undan ortiq mustaqil so'zning ma'no va grammatik jihatdan bog'lanishi",
+          "gapning bosh bo'lagi",
+          "qo'shma so'z",
+          "gap bo'lagi"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "So'z birikmasi",
+        "savol": "So'z birikmasida qaysi so'z hokim (bosh) so'z hisoblanadi?",
+        "variantlar": [
+          "aniqlovchi",
+          "so'roq beruvchi so'z",
+          "so'roqqa javob bo'lgan so'z",
+          "ikkalasi ham teng"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "So'z birikmasi",
+        "savol": "\"Chiroyli gul\" birikmasida qaysi so'z aniqlovchi vazifasida keladi?",
+        "variantlar": [
+          "chiroyli",
+          "gul",
+          "ikkalasi ham",
+          "hech qaysi"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "So'z birikmasi",
+        "savol": "So'z birikmasi bilan gapning asosiy farqi nima?",
+        "variantlar": [
+          "so'z birikmasi tugallangan fikr bildirmaydi, gap bildiradi",
+          "farqi yo'q",
+          "so'z birikmasi doim uzunroq",
+          "so'z birikmasida kesim bo'ladi"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "So'z birikmasi",
+        "savol": "Aniqlovchili so'z birikmalarida bog'lanish qanday amalga oshadi?",
+        "variantlar": [
+          "moslashuv, boshqaruv yoki bitishuv orqali",
+          "faqat moslashuv orqali",
+          "faqat boshqaruv orqali",
+          "bog'lanish bo'lmaydi"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "So'z birikmasi",
+        "savol": "\"Kitobni o'qidim\" birikmasida bog'lanish turi:",
+        "variantlar": [
+          "bitishuv",
+          "boshqaruv",
+          "moslashuv",
+          "bog'lanish yo'q"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "So'z birikmasi",
+        "savol": "\"Tez yugurdi\" birikmasida bog'lanish turi qanday?",
+        "variantlar": [
+          "bitishuv",
+          "boshqaruv",
+          "moslashuv",
+          "hech qaysi"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "So'z birikmasi",
+        "savol": "Ega va kesim orasidagi bog'lanish turi odatda qanday ataladi?",
+        "variantlar": [
+          "moslashuv",
+          "boshqaruv",
+          "bitishuv",
+          "hech qaysi"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "So'z birikmasi",
+        "savol": "So'z birikmasi eng kamida necha so'zdan tashkil topadi?",
+        "variantlar": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "So'z birikmasi",
+        "savol": "Frazeologik birikmalar so'z birikmasidan nimasi bilan farq qiladi?",
+        "variantlar": [
+          "ma'nosi butunlashgan, o'zgarmas bo'ladi",
+          "farqi yo'q",
+          "doim uch so'zdan iborat bo'ladi",
+          "faqat she'rda ishlatiladi"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Gap bo'laklari",
+        "savol": "Undalma gapning qaysi bo'lagi hisoblanadi?",
+        "variantlar": [
+          "gap bo'lagi hisoblanmaydi",
+          "ega hisoblanadi",
+          "kesim hisoblanadi",
+          "hol hisoblanadi"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Gap bo'laklari",
+        "savol": "Kirish so'zlar gap bo'lagi hisoblanadimi?",
+        "variantlar": [
+          "yo'q",
+          "ha, ega hisoblanadi",
+          "ha, kesim hisoblanadi",
+          "ha, hol hisoblanadi"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Gap bo'laklari",
+        "savol": "Bir xil so'roqqa javob bo'lib, bir xil vazifani bajaruvchi so'zlar qanday ataladi?",
+        "variantlar": [
+          "uyushiq bo'laklar",
+          "ajratilgan bo'laklar",
+          "kirish so'zlar",
+          "undalmalar"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Gap bo'laklari",
+        "savol": "Alohida ohang bilan ajratilib, qo'shimcha ma'no ifodalovchi bo'laklar:",
+        "variantlar": [
+          "uyushiq bo'laklar",
+          "ajratilgan bo'laklar",
+          "bosh bo'laklar",
+          "undalmalar"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Gap bo'laklari",
+        "savol": "Ega qanday so'z turkumlari bilan ifodalanishi mumkin?",
+        "variantlar": [
+          "faqat ot bilan",
+          "ot, olmosh va boshqa so'z turkumlari bilan",
+          "faqat fe'l bilan",
+          "faqat sifat bilan"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Gap bo'laklari",
+        "savol": "Kesim qanday so'z turkumi bilan eng ko'p ifodalanadi?",
+        "variantlar": [
+          "ot",
+          "fe'l",
+          "son",
+          "ravish"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Gap bo'laklari",
+        "savol": "To'ldiruvchi necha turga bo'linadi?",
+        "variantlar": [
+          "2 (vositali va vositasiz)",
+          "3",
+          "4",
+          "5"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Gap bo'laklari",
+        "savol": "Vositasiz to'ldiruvchi qaysi kelishikdagi so'z bilan ifodalanadi?",
+        "variantlar": [
+          "bosh kelishik",
+          "tushum kelishigi",
+          "jo'nalish kelishigi",
+          "chiqish kelishigi"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Gap bo'laklari",
+        "savol": "Hol necha turga bo'linadi?",
+        "variantlar": [
+          "2",
+          "3-4",
+          "6-7",
+          "10"
+        ],
+        "togri": 2
+      },
+      {
+        "mavzu": "Gap bo'laklari",
+        "savol": "Aniqlovchi necha turga bo'linadi?",
+        "variantlar": [
+          "2 (sifatlovchi va qaratqichli)",
+          "3",
+          "4",
+          "5"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Sodda gap",
+        "savol": "Faqat bosh bo'laklardan tashkil topgan gap qanday ataladi?",
+        "variantlar": [
+          "yoyiq gap",
+          "yig'iq gap",
+          "to'liqsiz gap",
+          "atov gap"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Sodda gap",
+        "savol": "Ikkinchi darajali bo'laklarga ham ega bo'lgan gap:",
+        "variantlar": [
+          "yig'iq gap",
+          "yoyiq gap",
+          "to'liqsiz gap",
+          "atov gap"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Sodda gap",
+        "savol": "Vaziyatdan kelib chiqib, bo'laklaridan biri tushirilgan gap:",
+        "variantlar": [
+          "yig'iq gap",
+          "yoyiq gap",
+          "to'liqsiz gap",
+          "atov gap"
+        ],
+        "togri": 2
+      },
+      {
+        "mavzu": "Sodda gap",
+        "savol": "Faqat ega bilan ifodalanib, predmet mavjudligini bildiruvchi gap:",
+        "variantlar": [
+          "atov gap",
+          "to'liqsiz gap",
+          "yig'iq gap",
+          "undov gap"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Sodda gap",
+        "savol": "Bir bosh bo'lakli gaplarda necha bosh bo'lak bo'ladi?",
+        "variantlar": [
+          "ikkita (ega va kesim)",
+          "bitta (ega yoki kesim)",
+          "uchta",
+          "bo'lmaydi"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Sodda gap",
+        "savol": "Faqat kesim bilan ifodalangan, egasi shart bo'lmagan gap turi:",
+        "variantlar": [
+          "atov gap",
+          "shaxssiz gap",
+          "ikki bosh bo'lakli gap",
+          "yig'iq gap"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Sodda gap",
+        "savol": "\"Kuz. Yomg'ir yog'moqda.\" gaplaridan birinchisi qanday gap turiga misol?",
+        "variantlar": [
+          "atov gap",
+          "to'liqsiz gap",
+          "ikki bosh bo'lakli gap",
+          "undov gap"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Sodda gap",
+        "savol": "Ikkala bosh bo'lak (ega va kesim) mavjud sodda gap qanday ataladi?",
+        "variantlar": [
+          "bir bosh bo'lakli gap",
+          "ikki bosh bo'lakli gap",
+          "to'liqsiz gap",
+          "atov gap"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Sodda gap",
+        "savol": "Uyushiq bo'lakli gaplarda bo'laklar odatda qanday bog'lanadi?",
+        "variantlar": [
+          "bog'lovchilar yoki sanash ohangi bilan",
+          "faqat bog'lovchisiz",
+          "faqat bog'lovchi bilan",
+          "bog'lanmaydi"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Sodda gap",
+        "savol": "Gapda bir nechta ega yoki kesim bo'lsa, bunday gap qanday ataladi?",
+        "variantlar": [
+          "uyushiq bo'lakli gap",
+          "ajratilgan bo'lakli gap",
+          "to'liqsiz gap",
+          "atov gap"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Qo'shma gap",
+        "savol": "Teng huquqli bog'lovchilar (va, hamda, lekin) bilan bog'langan qo'shma gap:",
+        "variantlar": [
+          "ergashgan qo'shma gap",
+          "bog'langan qo'shma gap",
+          "bog'lovchisiz qo'shma gap",
+          "sodda gap"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Qo'shma gap",
+        "savol": "Bosh va ergash gapdan tashkil topgan, ergash gap bog'lovchi bilan bog'langan qo'shma gap:",
+        "variantlar": [
+          "bog'langan qo'shma gap",
+          "ergashgan qo'shma gap",
+          "bog'lovchisiz qo'shma gap",
+          "sodda gap"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Qo'shma gap",
+        "savol": "Qismlari faqat ohang va ma'no orqali bog'langan qo'shma gap:",
+        "variantlar": [
+          "bog'langan qo'shma gap",
+          "ergashgan qo'shma gap",
+          "bog'lovchisiz qo'shma gap",
+          "sodda gap"
+        ],
+        "togri": 2
+      },
+      {
+        "mavzu": "Qo'shma gap",
+        "savol": "Ergashgan qo'shma gapda ergash gap bosh gapning qaysi bo'lagiga bog'lanishi mumkin?",
+        "variantlar": [
+          "istalgan bo'lagiga",
+          "faqat egaga",
+          "faqat kesimga",
+          "hech qaysi bo'lagiga"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Qo'shma gap",
+        "savol": "\"Agar yomg'ir yog'sa, dalaga bormaymiz\" gapida ergash gap turi:",
+        "variantlar": [
+          "sabab ergash gap",
+          "shart ergash gap",
+          "payt ergash gap",
+          "maqsad ergash gap"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Qo'shma gap",
+        "savol": "\"Kech qolmaslik uchun tez yurdik\" gapida ergash gap turi:",
+        "variantlar": [
+          "sabab ergash gap",
+          "maqsad ergash gap",
+          "shart ergash gap",
+          "payt ergash gap"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Qo'shma gap",
+        "savol": "\"U kelgach, hammamiz xursand bo'ldik\" gapida ergash gap turi:",
+        "variantlar": [
+          "payt ergash gap",
+          "sabab ergash gap",
+          "shart ergash gap",
+          "natija ergash gap"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Qo'shma gap",
+        "savol": "\"Charchagani uchun erta yotdi\" gapida ergash gap turi:",
+        "variantlar": [
+          "sabab ergash gap",
+          "payt ergash gap",
+          "shart ergash gap",
+          "maqsad ergash gap"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Qo'shma gap",
+        "savol": "Bog'langan qo'shma gapda qismlar orasida ko'pincha qanday bog'lovchilar ishlatiladi?",
+        "variantlar": [
+          "va, hamda, lekin, ammo, biroq",
+          "agar, chunki, garchi",
+          "-sa, -gach",
+          "bog'lovchi ishlatilmaydi"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Qo'shma gap",
+        "savol": "Uch va undan ortiq sodda gapdan tashkil topgan qo'shma gap qanday ataladi?",
+        "variantlar": [
+          "oddiy qo'shma gap",
+          "murakkab (ko'p tarkibli) qo'shma gap",
+          "sodda gap",
+          "atov gap"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Fe'l nisbati",
+        "savol": "Fe'l nisbatlari nechta?",
+        "variantlar": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "togri": 2
+      },
+      {
+        "mavzu": "Fe'l nisbati",
+        "savol": "\"Yuvindi\" fe'lida qanday nisbat qo'shimchasi bor?",
+        "variantlar": [
+          "o'zlik nisbati",
+          "majhul nisbat",
+          "orttirma nisbat",
+          "birgalik nisbat"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Fe'l nisbati",
+        "savol": "\"Yozildi\" fe'lida qanday nisbat bor?",
+        "variantlar": [
+          "o'zlik nisbati",
+          "majhul nisbat",
+          "orttirma nisbat",
+          "birgalik nisbat"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Fe'l nisbati",
+        "savol": "\"O'qitdi\" fe'lida qanday nisbat bor?",
+        "variantlar": [
+          "o'zlik nisbati",
+          "majhul nisbat",
+          "orttirma nisbat",
+          "birgalik nisbat"
+        ],
+        "togri": 2
+      },
+      {
+        "mavzu": "Fe'l nisbati",
+        "savol": "\"Ko'rishdi\" fe'lida qanday nisbat bor?",
+        "variantlar": [
+          "o'zlik nisbati",
+          "majhul nisbat",
+          "orttirma nisbat",
+          "birgalik nisbat"
+        ],
+        "togri": 3
+      },
+      {
+        "mavzu": "Fe'lning boshqa shakllari",
+        "savol": "Fe'lning sifatdosh shakli qanday qo'shimcha bilan yasaladi?",
+        "variantlar": [
+          "-gan/-adigan",
+          "-ib",
+          "-moqchi",
+          "-gani"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Fe'lning boshqa shakllari",
+        "savol": "Fe'lning ravishdosh shakli qanday qo'shimcha bilan yasaladi?",
+        "variantlar": [
+          "-gan",
+          "-ib/-b",
+          "-moq",
+          "-uvchi"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Fe'lning boshqa shakllari",
+        "savol": "Fe'lning harakat nomi shakli qanday qo'shimcha bilan yasaladi?",
+        "variantlar": [
+          "-moq/-ish",
+          "-gan",
+          "-ib",
+          "-uvchi"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Fe'lning boshqa shakllari",
+        "savol": "Sifatdosh gapda qanday vazifada ko'p keladi?",
+        "variantlar": [
+          "faqat kesim",
+          "aniqlovchi (va boshqa vazifalarda)",
+          "faqat hol",
+          "faqat ega"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Fe'lning boshqa shakllari",
+        "savol": "Ravishdosh gapda ko'pincha qanday vazifada keladi?",
+        "variantlar": [
+          "aniqlovchi",
+          "hol",
+          "to'ldiruvchi",
+          "ega"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Fe'lning boshqa shakllari",
+        "savol": "\"O'qimoqchi\" so'zidagi \"-moqchi\" qo'shimchasi fe'lning qaysi shaklini yasaydi?",
+        "variantlar": [
+          "niyat fe'li",
+          "sifatdosh",
+          "ravishdosh",
+          "harakat nomi"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Fe'lning boshqa shakllari",
+        "savol": "Fe'lning shaxs-son qo'shimchalari nimani bildiradi?",
+        "variantlar": [
+          "harakatni kim bajarayotganini",
+          "zamonni",
+          "maylini",
+          "nisbatni"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Fe'lning boshqa shakllari",
+        "savol": "\"Bordim\" so'zida qanday shaxs-son ifodalangan?",
+        "variantlar": [
+          "I shaxs birlik",
+          "II shaxs birlik",
+          "III shaxs birlik",
+          "I shaxs ko'plik"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Fe'lning boshqa shakllari",
+        "savol": "\"Borasiz\" so'zida qanday shaxs-son ifodalangan?",
+        "variantlar": [
+          "I shaxs ko'plik",
+          "II shaxs ko'plik (hurmat)",
+          "III shaxs ko'plik",
+          "III shaxs birlik"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "So'z turkumlari",
+        "savol": "So'z turkumlari nechta asosiy guruhga bo'linadi?",
+        "variantlar": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "So'z turkumlari",
+        "savol": "Mustaqil so'z turkumlariga nimalar kiradi?",
+        "variantlar": [
+          "ot, sifat, son, olmosh, fe'l, ravish",
+          "faqat ot va fe'l",
+          "faqat yordamchi so'zlar",
+          "faqat undov"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "So'z turkumlari",
+        "savol": "Yordamchi so'z turkumlariga nimalar kiradi?",
+        "variantlar": [
+          "ot va sifat",
+          "ko'makchi, bog'lovchi, yuklama",
+          "fe'l va ravish",
+          "son va olmosh"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "So'z turkumlari",
+        "savol": "Undov va taqlid so'zlar qanday guruh hisoblanadi?",
+        "variantlar": [
+          "alohida guruh (mustaqil ham, yordamchi ham emas)",
+          "mustaqil so'z turkumi",
+          "yordamchi so'z turkumi",
+          "so'z turkumi hisoblanmaydi"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "So'z turkumlari",
+        "savol": "So'z turkumini aniqlashda asosan nimalarga e'tibor beriladi?",
+        "variantlar": [
+          "faqat tovush tarkibiga",
+          "ma'nosi, so'rog'i va grammatik xususiyatlariga",
+          "faqat uzunligiga",
+          "faqat kelib chiqishiga"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Sintaksis",
+        "savol": "Gap va so'z birikmasining asosiy farqi nimada?",
+        "variantlar": [
+          "ikkalasi ham so'zlardan tuzilishi, lekin gap tugallangan fikr bildiradi",
+          "hech qanday farq yo'q",
+          "ikkalasi ham tugallangan fikr bildiradi",
+          "so'z birikmasi doim gapdan uzun bo'ladi"
+        ],
+        "togri": 0
+      }
+    ]
+  },
+  "adabiyot": {
+    "nomi": "Adabiyot",
+    "savollar": [
+      {
+        "mavzu": "Adabiyot nazariyasi",
+        "savol": "Asardagi voqealar ketma-ketligi qanday ataladi?",
+        "variantlar": [
+          "syujet",
+          "kompozitsiya",
+          "fabula",
+          "motiv"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Adabiyot nazariyasi",
+        "savol": "Asardagi bosh qahramon obrazi qanday atamada beriladi?",
+        "variantlar": [
+          "obraz",
+          "motiv",
+          "ritm",
+          "qofiya"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Adabiyot nazariyasi",
+        "savol": "She'rda qofiyalanuvchi so'zlar oxiridagi ovoz mosligi nima deyiladi?",
+        "variantlar": [
+          "vazn",
+          "qofiya",
+          "radif",
+          "band"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Adabiyot nazariyasi",
+        "savol": "Qofiyadan keyin takrorlanuvchi so'z yoki birikma qanday ataladi?",
+        "variantlar": [
+          "radif",
+          "vazn",
+          "band",
+          "tashbeh"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Adabiyot nazariyasi",
+        "savol": "She'riy asarning o'lchov birligi qanday ataladi?",
+        "variantlar": [
+          "vazn",
+          "qofiya",
+          "band",
+          "ritm"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Adabiyot nazariyasi",
+        "savol": "To'rt misradan iborat she'riy band qanday ataladi?",
+        "variantlar": [
+          "bayt",
+          "band",
+          "to'rtlik",
+          "g'azal"
+        ],
+        "togri": 2
+      },
+      {
+        "mavzu": "Adabiyot nazariyasi",
+        "savol": "Ikki misrali she'riy birlik qanday ataladi?",
+        "variantlar": [
+          "bayt",
+          "band",
+          "to'rtlik",
+          "g'azal"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Adabiyot nazariyasi",
+        "savol": "Predmetni boshqasiga o'xshatish orqali tasvirlash usuli qanday ataladi?",
+        "variantlar": [
+          "tashbeh (o'xshatish)",
+          "mubolag'a",
+          "tazod",
+          "takror"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Adabiyot nazariyasi",
+        "savol": "Voqelikni haqiqatdan ko'ra kattalashtirib tasvirlash usuli qanday ataladi?",
+        "variantlar": [
+          "tashbeh",
+          "mubolag'a",
+          "tazod",
+          "kinoya"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Adabiyot nazariyasi",
+        "savol": "Ma'noni teskarisi bilan ifodalash san'ati qanday ataladi?",
+        "variantlar": [
+          "tashbeh",
+          "mubolag'a",
+          "kinoya",
+          "tazod"
+        ],
+        "togri": 2
+      },
+      {
+        "mavzu": "Adabiyot nazariyasi",
+        "savol": "Nasriy, yirik hajmli, syujetga ega asar janri qanday ataladi?",
+        "variantlar": [
+          "hikoya",
+          "roman",
+          "doston",
+          "g'azal"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Adabiyot nazariyasi",
+        "savol": "She'riy yo'lda yozilgan, syujetga ega yirik asar qanday ataladi?",
+        "variantlar": [
+          "g'azal",
+          "doston",
+          "ruboiy",
+          "qasida"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Adabiyot nazariyasi",
+        "savol": "Ishqiy-lirik mavzudagi, baytlardan iborat she'riy janr:",
+        "variantlar": [
+          "ruboiy",
+          "g'azal",
+          "doston",
+          "qasida"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Adabiyot nazariyasi",
+        "savol": "To'rt misradan iborat, falsafiy-hikmatli she'riy janr:",
+        "variantlar": [
+          "ruboiy",
+          "g'azal",
+          "doston",
+          "qasida"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Adabiyot nazariyasi",
+        "savol": "Kimnidir maqtash maqsadida yozilgan she'riy janr:",
+        "variantlar": [
+          "ruboiy",
+          "g'azal",
+          "qasida",
+          "doston"
+        ],
+        "togri": 2
+      },
+      {
+        "mavzu": "Mumtoz adabiyot",
+        "savol": "\"Xamsa\" dostonlar to'plamining muallifi kim?",
+        "variantlar": [
+          "Alisher Navoiy",
+          "Bobur",
+          "Fuzuliy",
+          "Munis"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Mumtoz adabiyot",
+        "savol": "\"Farhod va Shirin\" dostoni kim tomonidan yozilgan?",
+        "variantlar": [
+          "Alisher Navoiy",
+          "Bobur",
+          "Lutfiy",
+          "Munis"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Mumtoz adabiyot",
+        "savol": "Alisher Navoiyning to'liq forsiy devoni qanday nomlanadi?",
+        "variantlar": [
+          "Xamsa",
+          "Devoni Foniy",
+          "Boburnoma",
+          "Devoni Lison ut-tayr"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Mumtoz adabiyot",
+        "savol": "Zahiriddin Muhammad Boburning mashhur nasriy asari qaysi?",
+        "variantlar": [
+          "Boburnoma",
+          "Xamsa",
+          "Mehrobdan chayon",
+          "Devon"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Mumtoz adabiyot",
+        "savol": "\"Layli va Majnun\" dostonini yozgan mumtoz shoir kim?",
+        "variantlar": [
+          "Fuzuliy",
+          "Bobur",
+          "Munis",
+          "Ogahiy"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Mumtoz adabiyot",
+        "savol": "Alisher Navoiy qaysi asrda yashab ijod qilgan?",
+        "variantlar": [
+          "XIII asr",
+          "XIV asr",
+          "XV asr",
+          "XVI asr"
+        ],
+        "togri": 2
+      },
+      {
+        "mavzu": "Mumtoz adabiyot",
+        "savol": "Zahiriddin Muhammad Bobur qaysi davlatga asos solgan?",
+        "variantlar": [
+          "Temuriylar",
+          "Boburiylar (Hindistonda)",
+          "Shayboniylar",
+          "Ashtarxoniylar"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Mumtoz adabiyot",
+        "savol": "Navoiyning \"Hayrat ul-abror\" asari qaysi turkumga kiradi?",
+        "variantlar": [
+          "g'azallar to'plami",
+          "Xamsa tarkibidagi doston",
+          "tarixiy asar",
+          "tazkira"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Mumtoz adabiyot",
+        "savol": "\"Muhokamat ul-lug'atayn\" asarida Navoiy nimani muhokama qiladi?",
+        "variantlar": [
+          "ikki tilni (turkiy va forsiyni) qiyoslaydi",
+          "ikki dinni qiyoslaydi",
+          "ikki davlatni qiyoslaydi",
+          "ikki shaharni qiyoslaydi"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Mumtoz adabiyot",
+        "savol": "Mumtoz adabiyotda shoirlar haqida ma'lumot beruvchi asar turi qanday ataladi?",
+        "variantlar": [
+          "doston",
+          "tazkira",
+          "g'azal",
+          "qasida"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Mumtoz adabiyot",
+        "savol": "\"Firdavs ul-iqbol\" muallifi kim (XIX asr Xiva adabiy muhiti)?",
+        "variantlar": [
+          "Munis Xorazmiy",
+          "Ogahiy",
+          "Feruz",
+          "Berdaq"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Mumtoz adabiyot",
+        "savol": "Tarixchi va shoir Ogahiy qaysi asrda ijod qilgan?",
+        "variantlar": [
+          "XVI asr",
+          "XVII asr",
+          "XIX asr",
+          "XX asr"
+        ],
+        "togri": 2
+      },
+      {
+        "mavzu": "Mumtoz adabiyot",
+        "savol": "Mashrab qaysi adabiy yo'nalish vakili sifatida tanilgan?",
+        "variantlar": [
+          "jadidchilik",
+          "tasavvuf (sufiylik) she'riyati",
+          "romantizm",
+          "realizm"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Mumtoz adabiyot",
+        "savol": "\"Devoni Foniy\" kimning taxallusi bilan bog'liq asar?",
+        "variantlar": [
+          "Navoiy",
+          "Bobur",
+          "Munis",
+          "Ogahiy"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Mumtoz adabiyot",
+        "savol": "Lutfiy qaysi tildagi g'azalnavislikning yirik vakillaridan biri hisoblanadi?",
+        "variantlar": [
+          "fors tili",
+          "turkiy (chig'atoy) tili",
+          "arab tili",
+          "rus tili"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Mumtoz adabiyot",
+        "savol": "\"Saddi Iskandariy\" dostoni kim tomonidan yozilgan?",
+        "variantlar": [
+          "Navoiy",
+          "Bobur",
+          "Fuzuliy",
+          "Munis"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Mumtoz adabiyot",
+        "savol": "Mumtoz adabiyotda Allohga bag'ishlangan she'r qanday ataladi?",
+        "variantlar": [
+          "hamd",
+          "na't",
+          "qasida",
+          "marsiya"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Mumtoz adabiyot",
+        "savol": "Payg'ambarga bag'ishlangan madhiya qanday ataladi?",
+        "variantlar": [
+          "na't",
+          "hamd",
+          "qasida",
+          "marsiya"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Mumtoz adabiyot",
+        "savol": "Navoiyning bolalar tarbiyasiga oid pand-nasihat asari qaysi?",
+        "variantlar": [
+          "Mahbub ul-qulub",
+          "Xamsa",
+          "Devoni Foniy",
+          "Boburnoma"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Mumtoz adabiyot",
+        "savol": "\"Sab'ai sayyor\" dostonini kim yozgan?",
+        "variantlar": [
+          "Navoiy",
+          "Bobur",
+          "Fuzuliy",
+          "Lutfiy"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "XX asr boshi (jadidchilik)",
+        "savol": "O'zbek adabiyotidagi birinchi roman hisoblangan \"O'tkan kunlar\" muallifi kim?",
+        "variantlar": [
+          "Abdulla Qodiriy",
+          "Cho'lpon",
+          "Fitrat",
+          "Hamza"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "XX asr boshi (jadidchilik)",
+        "savol": "Abdulla Qodiriyning ikkinchi mashhur romani qaysi?",
+        "variantlar": [
+          "Sarob",
+          "Mehrobdan chayon",
+          "Kecha va kunduz",
+          "Shum bola"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "XX asr boshi (jadidchilik)",
+        "savol": "Cho'lponning asl ismi qaysi?",
+        "variantlar": [
+          "Abdulhamid Sulaymon o'g'li",
+          "Abdulla Qodiriy",
+          "Sadriddin Ayniy",
+          "Fitrat"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "XX asr boshi (jadidchilik)",
+        "savol": "\"Kecha va kunduz\" romanining muallifi kim?",
+        "variantlar": [
+          "Cho'lpon",
+          "Abdulla Qodiriy",
+          "Fitrat",
+          "Hamza"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "XX asr boshi (jadidchilik)",
+        "savol": "Abdurauf Fitrat asosan qaysi harakat vakili sifatida tanilgan?",
+        "variantlar": [
+          "jadidchilik",
+          "sotsializm",
+          "romantizm",
+          "klassitsizm"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "XX asr boshi (jadidchilik)",
+        "savol": "\"Sarob\" romani muallifi kim?",
+        "variantlar": [
+          "Abdulla Qahhor",
+          "Cho'lpon",
+          "Abdulla Qodiriy",
+          "Oybek"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "XX asr boshi (jadidchilik)",
+        "savol": "Hamza Hakimzoda Niyoziy nima bilan ham mashhur?",
+        "variantlar": [
+          "shoir, dramaturg va bastakor sifatida",
+          "faqat rassom sifatida",
+          "faqat olim sifatida",
+          "faqat siyosatchi sifatida"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "XX asr boshi (jadidchilik)",
+        "savol": "Jadidchilik harakati asosan qaysi davrda o'zbek adabiyotiga ta'sir ko'rsatgan?",
+        "variantlar": [
+          "XV-XVI asrlar",
+          "XVII-XVIII asrlar",
+          "XIX asr oxiri - XX asr boshi",
+          "XXI asr"
+        ],
+        "togri": 2
+      },
+      {
+        "mavzu": "XX asr boshi (jadidchilik)",
+        "savol": "\"Ulug'bek xazinasi\" tarixiy romanini kim yozgan?",
+        "variantlar": [
+          "Odil Yoqubov",
+          "Pirimqul Qodirov",
+          "Abdulla Qodiriy",
+          "Oybek"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "XX asr boshi (jadidchilik)",
+        "savol": "Sadriddin Ayniy asosan qaysi tillarda ijod qilgan?",
+        "variantlar": [
+          "faqat o'zbek tilida",
+          "tojik va o'zbek tillarida",
+          "faqat rus tilida",
+          "faqat arab tilida"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "XX asr boshi (jadidchilik)",
+        "savol": "Abdulla Qodiriy qatag'on yillarida qanday taqdirga duch kelgan?",
+        "variantlar": [
+          "chet elga hijrat qilgan",
+          "qatag'on qurboni bo'lgan",
+          "umrining oxirigacha erkin ijod qilgan",
+          "davlat rahbari bo'lgan"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "XX asr boshi (jadidchilik)",
+        "savol": "Cho'lponning she'riy to'plamlaridan biri qaysi?",
+        "variantlar": [
+          "Uyg'onish",
+          "Bahor",
+          "Tong sirlari",
+          "yuqoridagilarning barchasi"
+        ],
+        "togri": 3
+      },
+      {
+        "mavzu": "XX asr boshi (jadidchilik)",
+        "savol": "Fitratning dramaturgiya sohasidagi mashhur asari qaysi?",
+        "variantlar": [
+          "Abulfayzxon",
+          "O'tkan kunlar",
+          "Sarob",
+          "Kecha va kunduz"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "XX asr boshi (jadidchilik)",
+        "savol": "\"Shum bola\" qissasining muallifi kim?",
+        "variantlar": [
+          "G'afur G'ulom",
+          "Abdulla Qodiriy",
+          "Oybek",
+          "Said Ahmad"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "XX asr boshi (jadidchilik)",
+        "savol": "Jadidchilik harakatining asosiy maqsadlaridan biri nima edi?",
+        "variantlar": [
+          "ta'lim-tarbiyani isloh qilish, xalqni ma'rifatga chorlash",
+          "faqat diniy masalalar bilan shug'ullanish",
+          "faqat savdo ishlari bilan shug'ullanish",
+          "faqat harbiy masalalar"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Sovet davri adabiyoti",
+        "savol": "\"Qutlug' qon\" va \"Navoiy\" romanlari muallifi kim?",
+        "variantlar": [
+          "Oybek",
+          "G'afur G'ulom",
+          "Abdulla Qahhor",
+          "Said Ahmad"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Sovet davri adabiyoti",
+        "savol": "G'afur G'ulom asosan qaysi janrda ko'proq ijod qilgan?",
+        "variantlar": [
+          "faqat roman",
+          "she'riyat va publitsistika",
+          "faqat drama",
+          "faqat tanqid"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Sovet davri adabiyoti",
+        "savol": "\"Sinchalak\" qissasi kim tomonidan yozilgan?",
+        "variantlar": [
+          "Abdulla Qahhor",
+          "Oybek",
+          "Said Ahmad",
+          "Pirimqul Qodirov"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Sovet davri adabiyoti",
+        "savol": "Abdulla Qahhorning mashhur hikoyalaridan biri qaysi?",
+        "variantlar": [
+          "O'g'ri",
+          "O'tkan kunlar",
+          "Navoiy",
+          "Sarob"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Sovet davri adabiyoti",
+        "savol": "Hamid Olimjon qaysi shoira bilan turmush qurgan?",
+        "variantlar": [
+          "Zulfiya",
+          "Oydin",
+          "Dilnoza",
+          "Gulnora"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Sovet davri adabiyoti",
+        "savol": "Zulfiya asosan qaysi mavzudagi she'rlari bilan mashhur?",
+        "variantlar": [
+          "ayollik, ona-vatan, muhabbat mavzusi",
+          "faqat tabiat mavzusi",
+          "faqat tarix mavzusi",
+          "faqat urush mavzusi"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Sovet davri adabiyoti",
+        "savol": "\"Yulduzli tunlar\" tarixiy romani (Bobur haqida) kim tomonidan yozilgan?",
+        "variantlar": [
+          "Pirimqul Qodirov",
+          "Odil Yoqubov",
+          "Oybek",
+          "Abdulla Qahhor"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Sovet davri adabiyoti",
+        "savol": "\"Diyonat\" romani muallifi kim?",
+        "variantlar": [
+          "Said Ahmad",
+          "O'tkir Hoshimov",
+          "Oybek",
+          "Odil Yoqubov"
+        ],
+        "togri": 3
+      },
+      {
+        "mavzu": "Sovet davri adabiyoti",
+        "savol": "\"Ufq\" romani kim tomonidan yozilgan?",
+        "variantlar": [
+          "Said Ahmad",
+          "Oybek",
+          "Abdulla Qahhor",
+          "Pirimqul Qodirov"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Sovet davri adabiyoti",
+        "savol": "Urush mavzusidagi mashhur asarlardan biri qaysi?",
+        "variantlar": [
+          "Ulug'bek xazinasi",
+          "Farg'ona tong otguncha",
+          "O'tkan kunlar",
+          "Boburnoma"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Sovet davri adabiyoti",
+        "savol": "\"Mehrobdan chayon\" romanida qaysi tarixiy davr voqealari tasvirlangan?",
+        "variantlar": [
+          "Qo'qon xonligi davri",
+          "Buxoro amirligi davri",
+          "Xiva xonligi davri",
+          "Sovet davri"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Sovet davri adabiyoti",
+        "savol": "\"Sariq devni minib\" ertak-qissasi muallifi kim?",
+        "variantlar": [
+          "Xudoyberdi To'xtaboyev",
+          "G'afur G'ulom",
+          "Said Ahmad",
+          "Oybek"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Sovet davri adabiyoti",
+        "savol": "\"Kalvak Mahzumning xotira daftaridan\" hajviy asari muallifi kim?",
+        "variantlar": [
+          "G'afur G'ulom",
+          "Abdulla Qodiriy",
+          "Oybek",
+          "Hamza"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Sovet davri adabiyoti",
+        "savol": "\"Sinchalak\" qissasida asosiy voqealar qayerda kechadi?",
+        "variantlar": [
+          "qishloq xo'jaligi (kolxoz) muhitida",
+          "shahar zavodida",
+          "armiyada",
+          "maktabda"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Sovet davri adabiyoti",
+        "savol": "Said Ahmadning \"Ufq\" romani qaysi davr voqealarini qamrab oladi?",
+        "variantlar": [
+          "Sovet davri o'zbek hayoti",
+          "mumtoz davr",
+          "jadidchilik davri",
+          "mustaqillik davri"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Sovet davri adabiyoti",
+        "savol": "Oybekning \"Navoiy\" romani qanday janrga mansub?",
+        "variantlar": [
+          "tarixiy-biografik roman",
+          "fantastik roman",
+          "detektiv roman",
+          "sarguzasht roman"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Sovet davri adabiyoti",
+        "savol": "G'afur G'ulomning urush davriga bag'ishlangan mashhur she'ri qaysi?",
+        "variantlar": [
+          "Sen yetim emassan",
+          "Bahor",
+          "Yoshlik",
+          "Vatan"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Sovet davri adabiyoti",
+        "savol": "Hamid Olimjon qanday fojiali holatda vafot etgan?",
+        "variantlar": [
+          "avtohalokatda",
+          "urushda",
+          "kasallikdan",
+          "qarilikda"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Sovet davri adabiyoti",
+        "savol": "Abdulla Qahhorning satira-hajviyotga boy asaridan biri qaysi?",
+        "variantlar": [
+          "O'g'ri",
+          "Sarob",
+          "Navoiy",
+          "Ufq"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Sovet davri adabiyoti",
+        "savol": "\"Muqaddas\" qissasi kim tomonidan yozilgan?",
+        "variantlar": [
+          "Abdulla Qahhor",
+          "Oybek",
+          "Said Ahmad",
+          "O'tkir Hoshimov"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Zamonaviy davr adabiyoti",
+        "savol": "\"O'zbekiston - Vatanim manim\" she'ri muallifi kim?",
+        "variantlar": [
+          "Abdulla Oripov",
+          "Erkin Vohidov",
+          "Zulfiya",
+          "G'afur G'ulom"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Zamonaviy davr adabiyoti",
+        "savol": "O'zbekiston Respublikasi Davlat madhiyasi matni muallifi kim?",
+        "variantlar": [
+          "Abdulla Oripov",
+          "Erkin Vohidov",
+          "Muhammad Yusuf",
+          "Rauf Parfi"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Zamonaviy davr adabiyoti",
+        "savol": "\"Ruhlar isyoni\" dostoni muallifi kim?",
+        "variantlar": [
+          "Erkin Vohidov",
+          "Abdulla Oripov",
+          "Muhammad Yusuf",
+          "Rauf Parfi"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Zamonaviy davr adabiyoti",
+        "savol": "\"Nido\" she'riy to'plami muallifi kim?",
+        "variantlar": [
+          "Abdulla Oripov",
+          "Erkin Vohidov",
+          "Zulfiya",
+          "Oybek"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Zamonaviy davr adabiyoti",
+        "savol": "O'tkir Hoshimovning mashhur romani qaysi?",
+        "variantlar": [
+          "Dunyoning ishlari",
+          "O'tkan kunlar",
+          "Navoiy",
+          "Sarob"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Zamonaviy davr adabiyoti",
+        "savol": "\"Ikki eshik orasi\" romani kim tomonidan yozilgan?",
+        "variantlar": [
+          "O'tkir Hoshimov",
+          "Said Ahmad",
+          "Abdulla Qahhor",
+          "Oybek"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Zamonaviy davr adabiyoti",
+        "savol": "Muhammad Yusuf asosan qaysi janrda mashhur bo'lgan?",
+        "variantlar": [
+          "she'riyat (lirik she'rlar)",
+          "roman",
+          "drama",
+          "tanqid"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Zamonaviy davr adabiyoti",
+        "savol": "Pirimqul Qodirovning \"Yulduzli tunlar\" romani qaysi tarixiy shaxsga bag'ishlangan?",
+        "variantlar": [
+          "Alisher Navoiy",
+          "Zahiriddin Muhammad Bobur",
+          "Amir Temur",
+          "Mirzo Ulug'bek"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Zamonaviy davr adabiyoti",
+        "savol": "Odil Yoqubovning \"Ulug'bek xazinasi\" romani qaysi tarixiy shaxsga bag'ishlangan?",
+        "variantlar": [
+          "Alisher Navoiy",
+          "Bobur",
+          "Mirzo Ulug'bek",
+          "Amir Temur"
+        ],
+        "togri": 2
+      },
+      {
+        "mavzu": "Zamonaviy davr adabiyoti",
+        "savol": "Erkin Vohidov va Abdulla Oripov qaysi davr she'riyatining yirik vakillari hisoblanadi?",
+        "variantlar": [
+          "mumtoz davr",
+          "jadidchilik davri",
+          "XX asr ikkinchi yarmi - mustaqillik davri",
+          "XIX asr"
+        ],
+        "togri": 2
+      },
+      {
+        "mavzu": "Zamonaviy davr adabiyoti",
+        "savol": "Amir Temur siymosiga bag'ishlangan tarixiy asarlar qaysi davrda ko'proq yaratila boshlandi?",
+        "variantlar": [
+          "sovet davrida",
+          "mustaqillik davridan keyin",
+          "jadidchilik davrida",
+          "mumtoz davrda"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Zamonaviy davr adabiyoti",
+        "savol": "Xurshid Davron asosan qaysi sohada tanilgan ijodkor?",
+        "variantlar": [
+          "shoir va noshir",
+          "faqat rassom",
+          "faqat dramaturg",
+          "faqat tarjimon"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Zamonaviy davr adabiyoti",
+        "savol": "To'lqin Hayit, Sirojiddin Sayyid kabi ijodkorlar qaysi davr adabiyoti vakillari hisoblanadi?",
+        "variantlar": [
+          "mumtoz davr",
+          "zamonaviy (hozirgi) davr",
+          "jadidchilik davri",
+          "sovet davri boshlanishi"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Zamonaviy davr adabiyoti",
+        "savol": "Nazar Eshonqul asosan qaysi janrda tanilgan zamonaviy yozuvchi?",
+        "variantlar": [
+          "hikoya va roman (nasr)",
+          "faqat she'riyat",
+          "faqat drama",
+          "faqat tanqid"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Zamonaviy davr adabiyoti",
+        "savol": "Xurshid Do'stmuhammad zamonaviy adabiyotda asosan qaysi janrda ijod qiladi?",
+        "variantlar": [
+          "nasr (roman, qissa)",
+          "faqat she'riyat",
+          "faqat drama",
+          "faqat tarjima"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Asarlar va janrlar",
+        "savol": "\"Alpomish\" qanday janrdagi asar?",
+        "variantlar": [
+          "doston (xalq eposi)",
+          "roman",
+          "hikoya",
+          "g'azal"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Asarlar va janrlar",
+        "savol": "\"Alpomish\" dostoni qaysi turdagi ijodga mansub?",
+        "variantlar": [
+          "yozma adabiyot",
+          "xalq og'zaki ijodi (folklor)",
+          "tarjima adabiyoti",
+          "zamonaviy adabiyot"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Asarlar va janrlar",
+        "savol": "O'zbek xalq ertaklari qaysi adabiyot turiga kiradi?",
+        "variantlar": [
+          "yozma adabiyot",
+          "og'zaki ijod (folklor)",
+          "tarjima adabiyoti",
+          "ilmiy adabiyot"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Asarlar va janrlar",
+        "savol": "\"Ravshan\" va \"Kuntug'mish\" qanday asarlar?",
+        "variantlar": [
+          "dostonlar (xalq eposi)",
+          "romanlar",
+          "she'riy to'plamlar",
+          "pyesalar"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Asarlar va janrlar",
+        "savol": "Xalq maqollari va matallari qanday adabiy janrga kiradi?",
+        "variantlar": [
+          "kichik janr (folklor)",
+          "yirik janr",
+          "lirik janr",
+          "dramatik janr"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Asarlar va janrlar",
+        "savol": "Ertak janrining asosiy xususiyati nima?",
+        "variantlar": [
+          "haqiqiy voqealarni tasvirlaydi",
+          "fantastik-sehrli unsurlarga ega, tarbiyaviy ahamiyatga ega",
+          "faqat she'riy shaklda bo'ladi",
+          "faqat hayvonlar haqida bo'ladi"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Asarlar va janrlar",
+        "savol": "Dramaturgiya janriga qaysi asar turi kiradi?",
+        "variantlar": [
+          "roman",
+          "pyesa (drama, komediya, fojia)",
+          "hikoya",
+          "doston"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Asarlar va janrlar",
+        "savol": "Kulgi, hajv orqali illatlarni fosh qiluvchi asar turi qanday ataladi?",
+        "variantlar": [
+          "tragediya",
+          "komediya (yoki satira)",
+          "doston",
+          "elegiya"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Asarlar va janrlar",
+        "savol": "Fojiali voqealarni tasvirlovchi dramatik asar turi qanday ataladi?",
+        "variantlar": [
+          "komediya",
+          "tragediya (fojia)",
+          "doston",
+          "satira"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Asarlar va janrlar",
+        "savol": "Ishqiy-romantik mavzudagi dostonlarga (masalan \"Layli va Majnun\") qanday janr sifatida qaraladi?",
+        "variantlar": [
+          "satirik doston",
+          "ishqiy-romantik doston",
+          "tarixiy doston",
+          "hajviy doston"
+        ],
+        "togri": 1
+      },
+      {
+        "mavzu": "Asarlar va janrlar",
+        "savol": "Nasrda yozilgan, romandan kichikroq hajmli asar turi:",
+        "variantlar": [
+          "qissa",
+          "she'r",
+          "g'azal",
+          "qasida"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Asarlar va janrlar",
+        "savol": "Nasrda yozilgan eng qisqa janr, odatda bitta voqeani tasvirlaydi:",
+        "variantlar": [
+          "roman",
+          "qissa",
+          "hikoya",
+          "doston"
+        ],
+        "togri": 2
+      },
+      {
+        "mavzu": "Asarlar va janrlar",
+        "savol": "Muallifning shaxsiy fikr-mulohazalarini erkin bayon qiluvchi nasriy janr:",
+        "variantlar": [
+          "esse",
+          "doston",
+          "g'azal",
+          "ruboiy"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Asarlar va janrlar",
+        "savol": "Kundalik hayotiy voqealarni sana bo'yicha qayd etib boruvchi asar turi:",
+        "variantlar": [
+          "kundalik (dnevnik)",
+          "roman",
+          "g'azal",
+          "qasida"
+        ],
+        "togri": 0
+      },
+      {
+        "mavzu": "Asarlar va janrlar",
+        "savol": "Muallif o'z hayoti haqida yozgan asar qanday ataladi?",
+        "variantlar": [
+          "roman",
+          "tarjimai hol (avtobiografiya)",
+          "tazkira",
+          "qasida"
+        ],
+        "togri": 1
+      }
+    ]
+  }
+}
