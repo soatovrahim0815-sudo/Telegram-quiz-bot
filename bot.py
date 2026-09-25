@@ -1,144 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Test Bot — guruh a'zolaridan test yechuvchilarni so'raydigan
-va ishtirok etganlarga avtomatik test tashlaydigan bot.
-
-Ishlash tartibi:
-1. Guruhda kimdir /test deb yozadi.
-2. Bot fanlar ro'yxatini tugmalar bilan chiqaradi.
-3. Fanni bosgan odam botning shaxsiy chatiga o'tkaziladi (deep link orqali)
-   va u yerda test avtomatik boshlanadi.
-4. Har bir savol Telegramning o'z "Quiz Poll" formatida yuboriladi.
-5. Test tugagach, natija chiqadi va scores.json faylga yoziladi.
-6. Guruhda /reyting buyrug'i bilan TOP-10 ko'rsatiladi.
-"""
-
-import asyncio
-import json
-import random
-import logging
-from datetime import datetime
-
-from aiogram import Bot, Dispatcher
-from aiogram.filters import CommandStart, Command, CommandObject
-from aiogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, PollAnswer
-from aiogram.enums import ParseMode
-
-import config
-
-logging.basicConfig(level=logging.INFO)
-
-bot = Bot(token=config.BOT_TOKEN)
-dp = Dispatcher()
-
-with open("questions.json", "r", encoding="utf-8") as f:
-    QUESTIONS = json.load(f)
-
-SCORES_FILE = "scores.json"
-
-# Foydalanuvchining faol test holati: {user_id: {...}}
-active_sessions = {}
-# Qaysi poll kimga tegishli ekanini bilish uchun: {poll_id: user_id}
-poll_owner = {}
-
-
-def load_scores():
-    try:
-        with open(SCORES_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
-    except FileNotFoundError:
-        return {}
-
-
-def save_scores(scores):
-    with open(SCORES_FILE, "w", encoding="utf-8") as f:
-        json.dump(scores, f, ensure_ascii=False, indent=2)
-
-
-@dp.message(CommandStart(deep_link=True))
-async def start_with_payload(message: Message, command: CommandObject):
-    subject_key = command.args
-    if subject_key not in QUESTIONS:
-        await message.answer("Bu test topilmadi. Guruhda /test buyrug'ini qayta bosing.")
-        return
-    await boshla_test(message.from_user.id, message.from_user.full_name, subject_key)
-
-
-@dp.message(CommandStart())
-async def start_plain(message: Message):
-    await message.answer(
-        "Assalomu alaykum! 👋\n\n"
-        "Bu bot orqali fanlardan test yecha olasiz.\n"
-        "Guruhda <b>/test</b> deb yozing va fanni tanlang.",
-        parse_mode=ParseMode.HTML,
-    )
-
-
-@dp.message(Command("test"))
-async def test_command(message: Message):
-    rows = []
-    for key, subject in QUESTIONS.items():
-        url = f"https://t.me/{config.BOT_USERNAME}?start={key}"
-        rows.append([InlineKeyboardButton(text=f"📘 {subject['nomi']}", url=url)])
-    kb = InlineKeyboardMarkup(inline_keyboard=rows)
-
-    await message.answer(
-        "📝 <b>Test vaqti!</b>\n\n"
-        "Kim test yechmoqchi bo'lsa, fanni tanlasin — bot shaxsiy chatda "
-        "avtomatik test tashlaydi:",
-        reply_markup=kb,
-        parse_mode=ParseMode.HTML,
-    )
-
-
-async def boshla_test(user_id: int, full_name: str, subject_key: str):
-    subject = QUESTIONS[subject_key]
-    barcha_savollar = subject["savollar"]
-    soni = min(config.SAVOLLAR_SONI, len(barcha_savollar))
-    tanlangan = random.sample(barcha_savollar, soni)
-
-    active_sessions[user_id] = {
-        "subject_key": subject_key,
-        "subject_nomi": subject["nomi"],
-        "full_name": full_name,
-        "savollar": tanlangan,
-        "index": 0,
-        "togri_soni": 0,
-        "boshlandi": datetime.now().isoformat(),
-    }
-
-    await bot.send_message(
-        user_id,
-        f"🎯 <b>{subject['nomi']}</b> fanidan {soni} ta savoldan iborat test boshlandi!\nOmad!",
-        parse_mode=ParseMode.HTML,
-    )
-    await keyingi_savol(user_id)
-
-
-async def keyingi_savol(user_id: int):
-    session = active_sessions.get(user_id)
-    if not session:
-        return
-
-    idx = session["index"]
-    savollar = session["savollar"]
-
-    if idx >= len(savollar):
-        await testni_yakunla(user_id)
-        return
-
-    savol = savollar[idx]
-    poll = await bot.send_poll(
-        chat_id=user_id,
-        question=f"{idx + 1}) {savol['savol']}",
-        options=savol["variantlar"],
-        type="quiz",
-        correct_option_id=savol["togri"],
-        is_anonymous=False,
-    )
-    poll_owner[poll.poll.id] = user_id
-
-
 @dp.poll_answer()
 async def poll_answer_handler(poll_answer: PollAnswer):
     poll_id = poll_answer.poll_id
@@ -207,9 +66,14 @@ async def reyting_command(message: Message):
 
 
 async def main():
-    print("Bot ishga tushdi...")
+    # Flask serverini alohida oqimda (thread) ishga tushiramiz
+    flask_thread = Thread(target=run_flask)
+    flask_thread.daemon = True
+    flask_thread.start()
+
+    print("Bot va Flask server ishga tushdi...")
     await dp.start_polling(bot)
 
 
-if __name__ == "__main__":
+if name == "main":
     asyncio.run(main())
